@@ -5,7 +5,7 @@ If you have a question regarding the package and its use, please contact us via 
 
 The readme document within the WeedEco repository provides introductory instructions on how to use and cite the package.
 
-More details regarding the use of the WeedEco package are provided in Vegetation History and Archaeobotany journal article. Full details will be provided when it is published.
+More details regarding the use of the WeedEco package are provided in a Vegetation History and Archaeobotany journal article. Full details will be provided when it is published.
 
-WeedEco has a sister package called CropPro which uses weed seed attributes to compare archaeobotanical assemablages against present-day crop processing sequences. CropPro can be found at https://github.com/CropPro-package
+WeedEco has a sister package called CropPro which uses weed seed attributes to compare archaeobotanical assemablages against ethnographic crop processing sequences. CropPro can be found at https://github.com/CropPro-package
 
